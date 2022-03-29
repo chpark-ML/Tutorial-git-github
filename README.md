@@ -1,7 +1,7 @@
-# Git과 Github!
+# ** Git과 Github! **
 ***
 
-### README.md
+### * README.md *
 .md > markdown 확장자
 
 ***
