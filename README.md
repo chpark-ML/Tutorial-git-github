@@ -1,20 +1,21 @@
 # Git과 Github!
 ***
 
+### README.md
 .md > markdown 확장자
 
 ***
-
+### 지역 저장소 생성 
 git init
 git config (--global) user.name ["name"]
 git config (--global) user.email ["email"]
 
 ***
-
-git remote add [origin, 원격저장소 식별 이름] : 원격 저장소 주소를 지역 저장소에 등록
+### 지역 저장소에 원격 저장소 주소 등록
+git remote add [origin, 원격저장소 식별 이름]
 
 ***
-
+### 지역 저장소 --> 원격 저장소 (push)
 git add [파일명] : 파일을 커밋에 포함될 파일로 등록
 
 git commit
