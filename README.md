@@ -1,8 +1,9 @@
-# ** Git과 Github! **
+# Git과 Github!
+
 ***
 
-### * README.md *
-.md > markdown 확장자
+### README.md 
+*.md > markdown 확장자*
 
 ***
 ### 지역 저장소 생성 
