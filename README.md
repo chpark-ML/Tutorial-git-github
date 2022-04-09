@@ -69,6 +69,3 @@ git branch \
 >-t ["브랜치"] : 생성한 브랜치를 지역 저장소의 작업 브랜치로 설정 # remotes 접두사 제외하고 명령어를 실행\
 
 git merge ['branch']
-
-## test
-what's wrong?
