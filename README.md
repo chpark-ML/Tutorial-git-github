@@ -14,6 +14,7 @@ git config (--global) user.email ["email"]
 ***
 ### 지역 저장소에 원격 저장소 주소 등록
 git remote add [origin, 원격저장소 식별 이름]
+test
 
 ***
 ### git branch switch 
