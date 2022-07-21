@@ -14,6 +14,10 @@ git config (--global) user.email ["email"]
 git remote add [origin, 원격저장소 식별 이름]
 
 ***
+### git branch switch 
+git checkout branch_name
+
+***
 ### 지역 저장소 --> 원격 저장소 (push)
 git add [파일명] : 파일을 커밋에 포함될 파일로 등록 (스테이징 영역으로 이동)
 
