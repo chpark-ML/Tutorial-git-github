@@ -5,8 +5,8 @@
 
 ***
 ### 지역 저장소 생성 
-git init
-git config (--global) user.name ["name"]
+git init \
+git config (--global) user.name ["name"] \
 git config (--global) user.email ["email"]
 
 ***
